@@ -1,0 +1,14 @@
+{
+    "name": "amirshnll/lorem-ipsum",
+    "description": "Lorem ipsum Multi Language generator in PHP without dependencies. Compatible with PHP 5.3+.",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Amir Shokri",
+            "email": "amirsh.nll@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
