@@ -1,3 +1,5 @@
+![Lorem ipsum  Multi Language generator](https://raw.githubusercontent.com/amirshnll/nll-LoremIpsum/main/cover.png)
+
 # nll-LoremIpsum
 Lorem ipsum  Multi Language generator in PHP without dependencies. Compatible with PHP 5.3+.
 
