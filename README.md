@@ -1,5 +1,4 @@
-# Lorem-Ipsum
-Lorem Ipsum library in php
+# nll-LoremIpsum
 Lorem ipsum generator in PHP without dependencies. Compatible with PHP 5.3+.
 
 ## Installation
@@ -64,6 +63,93 @@ You can still wrap with markup when returning an array:
 ```php
 print_r($lipsum->wordsArray(5, 'en', 'li'));
 ```
+
+### Language Support
+The following languages are supported : ($language parameter)
+- Armenian(Հայերեն)
+  - hy
+- Albanian (Shqip)
+  - sq
+- Arabic (العربية)
+  - ar
+- Bulgarian(Български)
+  - bg
+- Catalan(Català)
+  - ca
+- Simplified Chinese (中文简体)
+  - cn
+- Croatian (Hrvatski)
+  - hr
+- Czech (Česky)
+  - cs
+- Dansk
+  - da
+- Nederlands
+  - nl
+- English
+  - en (default)
+- Estonia (Eesti)
+  - et
+- Persian (فارسی)
+  - fa
+- Philippinisch (Filipino)
+  - ph
+- Finland (Suomi)
+  - fl
+- French (Français)
+  - fr
+- Georgian (ქართული)
+  - ka
+- German (Deutsch)
+  - de
+- Greek (Ελληνικά)
+  - el
+- Abrit (עברית)
+  - he
+- Hindi (हिन्दी)
+  - hi
+- Hungarian (Magyar)
+  - hu
+- Indonesia
+  - id
+- Italian (Italiano)
+  - it
+- Latviski
+  - lv
+- Lithuanian (Lietuviškai)
+  - lt
+- Macedonian (македонски)
+  - mk
+- Malay (Melayu)
+  - ms
+- Norsk
+  - no
+- Polish (Polski)
+  - pl
+- Portuguese (Português)
+  - pt
+- Romania (Româna)
+  - ro
+- Russian (Pyccкий)
+  - ru
+- Serbian (Српски)
+  - sr
+- Slovak (Slovenčina)
+  - sk
+- Slovene (Slovenščina)
+  - sl
+- Spanish (Español)
+  - es
+- Swedish (Svenska)
+  - sw
+- Thai (ไทย)
+  - th
+- Turkish (Türkçe)
+  - tr
+- Ukrainian (Українська)
+  - uk
+- Vietnamese (Tiếng Việt)
+  - vi
 
 ## Assumptions
 
