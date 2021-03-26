@@ -2,9 +2,10 @@
 Lorem ipsum  Multi Language generator in PHP without dependencies. Compatible with PHP 5.3+.
 
 ## Installation
-
-
-Then run `composer update`.
+### install with composer
+```
+composer require amirshnll/lorem-ipsum
+```
 
 ## Usage
 
