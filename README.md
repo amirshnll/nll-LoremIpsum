@@ -1,5 +1,5 @@
 # nll-LoremIpsum
-Lorem ipsum generator in PHP without dependencies. Compatible with PHP 5.3+.
+Lorem ipsum  Multi Language generator in PHP without dependencies. Compatible with PHP 5.3+.
 
 ## Installation
 
