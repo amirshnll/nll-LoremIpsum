@@ -151,6 +151,15 @@ The following languages are supported : ($language parameter)
 - Vietnamese (Tiếng Việt)
   - vi
 
+**e.g:** Generating French Paragraph
+```
+echo $lipsum->paragraph('fr');
+```
+**e.g:** Generating Persian Sentence
+```
+echo $lipsum->sentence('fa');
+```
+
 ## Assumptions
 
 Strings are made of [fixed text](https://www.lipsum.com/).
